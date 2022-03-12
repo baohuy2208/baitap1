@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main{
+cout<<"Ho va ten: Tran Dinh Bao Huy"<<endl;
+cout<<"MSSV: 106210035"<<endl;
+cout<<"Lop: 21DTCLC1";
+return 0;
+}
